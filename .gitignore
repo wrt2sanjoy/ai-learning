@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Local AI Agent instructions (keep local only)
+AGENTS.md
+.agents/
+
+# Build and local config
+pyproject.toml
