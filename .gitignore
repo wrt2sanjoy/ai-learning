@@ -12,3 +12,6 @@ AGENTS.md
 
 # Build and local config
 pyproject.toml
+
+# Local reference guides
+GIT_COMMANDS.md
